@@ -51,10 +51,6 @@ const aditya = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasrivastava04&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="streak stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasrivastava04&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="activity graph"/>
-</div>
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -120,22 +116,26 @@ const aditya = {
   </a>
 </p>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@adityasrivastava04&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" alt="wakatime stats"/>
-</div>
-
 ## 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
 </div>
 
-## 🐍 Contribution Snake
+## 📈 Profile Summary
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adityasrivastava04/adityasrivastava04/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityasrivastava04&theme=tokyonight" alt="profile summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityasrivastava04&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityasrivastava04&theme=tokyonight" alt="most commit language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityasrivastava04&theme=tokyonight" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityasrivastava04&theme=tokyonight&utcOffset=5.5" alt="productive time"/>
 </div>
 
 ---
